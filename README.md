@@ -50,12 +50,12 @@
 
 ## TASK MANAGEMENT AND PROGRESS
 
-| Team Member | Task Allocated                                        | Progress |
+| Team Member | Task Allocated                                         | Progress |
 |-------------|--------------------------------------------------------|----------|
-| **Raye**     | Data Cleaning & Discount Calculation                  | To Do    |
-| **Kartik**   | Ratings/Reviews Analysis + Correlation Computation    | To Do    |
-| **Viharika** | Visualizations (Scatter plots, heatmaps, etc.)        | To Do    |
-| **Aditi**    | Report Writing + GitHub Coordination & Submission     | To Do    |
+| **Raye**     |                                                       | To Do    |
+| **Kartik**   |                                                       | To Do    |
+| **Viharika** |                                                       | To Do    |
+| **Aditi**    |                                                       | To Do    |
 
 ---
 
