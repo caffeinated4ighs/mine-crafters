@@ -1,8 +1,6 @@
-# MINE-CRAFTERS
+# TOPIC: ANALYZING DISCOUNTS AND PRODUCT FEEDBACK ON MYNTRA  
 
-**DATA MINING**  
-**TOPIC:** ANALYZING DISCOUNTS AND PRODUCT FEEDBACK ON MYNTRA  
-**DATASET:** [Myntra dataset](https://www.kaggle.com/datasets/manishmathias/myntra-fashion-dataset)  
+ **DATASET:** [Myntra dataset](https://www.kaggle.com/datasets/manishmathias/myntra-fashion-dataset)  
 **TEAM MEMBERS:** Raye, Viharika, Kartik, Aditi  
 
 ✅ GitHub will be used to track progress  
