@@ -21,7 +21,7 @@
 
 ## KEY DUE DATES
 
-1. **Topic Proposal:** March 26 (email to instructor by a team representative)  
+1. **Topic Proposal:** March 26 (email to instructor by a team representative)  ✅ 
 2. **Slides for Team Presentation:** April 23 (email to instructor). Not graded, but final presentation is graded  
 3. **Team Presentation (15–20 mins):**  
    - Section 10: April 23  
