@@ -50,10 +50,10 @@
 
 | Team Member | Task Allocated                                         | Progress |
 |-------------|--------------------------------------------------------|----------|
-| **Raye**     |                                                       | To Do    |
-| **Kartik**   |                                                       | To Do    |
-| **Viharika** |                                                       | To Do    |
-| **Aditi**    |                                                       | To Do    |
+| **Raye**     | Presentation                                          | To Do    |
+| **Kartik**   | Summary Paper, data cleaning, modeling                | To Do    |
+| **Viharika** | Summary Paper, EDA                                    | To Do    |
+| **Aditi**    | Presentation                                          | To Do    |
 
 ---
 
