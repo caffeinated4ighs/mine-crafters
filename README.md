@@ -50,9 +50,9 @@
 
 | Team Member | Task Allocated                                         | Progress |
 |-------------|--------------------------------------------------------|----------|
-| **Raye**     | Summary paper, clustering                             | To Do, COMPLETED |
+| **Raye**     | Summary paper, DATA CLEANING                            | To Do, COMPLETED |
 | **Kartik**   | Presentation,  modeling                               | COMPLETED   |
-| **Viharika** | Summary Paper, datacleaning                           | TO DO, COMPLETED   |
+| **Viharika** | Summary Paper, CLUSTERING                          | TO DO, COMPLETED   |
 | **Aditi**    | Presentation ,EDA                                     | COMPLETED   |
 
 ---
