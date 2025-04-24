@@ -12,9 +12,13 @@
 **RESEARCH QUESTION :** How do pricing, discounts, reviews, and gender targeting impact product ratings on Myntra?
 
 **S**: Explore how product features influence user ratings
+
 **M**: Use stats tests and models to evaluate and predict ratings.
+
 **A**: Done using a cleaned dataset with 90K+ entries.
+
 **R**: Helps with pricing and marketing strategies.
+
 **T**: All analysis done during this project using 2022 data. 
 
 ---
