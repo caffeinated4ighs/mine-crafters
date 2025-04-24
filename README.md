@@ -2,20 +2,20 @@
 
  **DATASET:** [Myntra dataset](https://www.kaggle.com/datasets/manishmathias/myntra-fashion-dataset)  
 **TEAM MEMBERS:** Raye, Viharika, Kartik, Aditi  
-
 ✅ GitHub will be used to track progress  
 ✅ All updates should be committed regularly  
+
 
 ---
 
 ## SMART QUESTION  
-**HOW DO DISCOUNTS CORRELATE WITH PRODUCT RATINGS AND REVIEWS?**  
+**RESEARCH QUESTION :** How do pricing, discounts, reviews, and gender targeting impact product ratings on Myntra?
 
-**S:** Measure whether higher discounts affect ratings/reviews.  
-**M:** Correlate discount % with Ratings and Reviews.  
-**A:** Data is present but needs cleaning for discount values.  
-**R:** Important for evaluating price-quality perception.  
-**T:** Can be done over current product set or by campaign (e.g., sale events).  
+**S**: Explore how product features influence user ratings
+**M**: Use stats tests and models to evaluate and predict ratings.
+**A**: Done using a cleaned dataset with 90K+ entries.
+**R**: Helps with pricing and marketing strategies.
+**T**: All analysis done during this project using 2022 data. 
 
 ---
 
@@ -50,10 +50,10 @@
 
 | Team Member | Task Allocated                                         | Progress |
 |-------------|--------------------------------------------------------|----------|
-| **Raye**     | Presentation                                          | To Do    |
-| **Kartik**   | Summary Paper, data cleaning, modeling                | To Do    |
-| **Viharika** | Summary Paper, EDA                                    | To Do    |
-| **Aditi**    | Presentation                                          | To Do    |
+| **Raye**     | Summary paper, clustering                             | To Do, COMPLETED |
+| **Kartik**   | Presentation,  modeling                               | COMPLETED   |
+| **Viharika** | Summary Paper, datacleaning                           | TO DO, COMPLETED   |
+| **Aditi**    | Presentation ,EDA                                     | COMPLETED   |
 
 ---
 
